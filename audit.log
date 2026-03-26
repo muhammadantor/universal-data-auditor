@@ -1,0 +1,39 @@
+2026-03-25 20:28:48,835 INFO ===New Audit For:company_big_data.csv ===
+2026-03-25 20:28:48,848 INFO Expected Colum:4
+2026-03-25 20:34:48,480 INFO ===New Audit For:company_big_data.csv ===
+2026-03-25 20:34:48,480 INFO Expected Colum:4
+2026-03-25 20:34:48,490 ERROR Line 501 [ID: ORD-1500]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,975 INFO ===New Audit For:company_big_data.csv ===
+2026-03-25 20:38:54,975 INFO Expected Colum:4
+2026-03-25 20:38:54,976 ERROR Line 501 [ID: ORD-1500]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,976 ERROR Line 701 [ID: ORD-1700]: Validation failed -> Invalid transaction amount: -15.155038969503693
+2026-03-25 20:38:54,976 ERROR Line 1001 [ID: ORD-2000]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,977 ERROR Line 1401 [ID: ORD-2400]: Validation failed -> Invalid transaction amount: -15.903394863484891
+2026-03-25 20:38:54,977 ERROR Line 1501 [ID: ORD-2500]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,978 ERROR Line 2001 [ID: ORD-3000]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,978 ERROR Line 2101 [ID: ORD-3100]: Validation failed -> Invalid transaction amount: -85.80852964174431
+2026-03-25 20:38:54,978 ERROR Line 2501 [ID: ORD-3500]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,979 ERROR Line 2801 [ID: ORD-3800]: Validation failed -> Invalid transaction amount: -89.4090166794352
+2026-03-25 20:38:54,979 ERROR Line 3001 [ID: ORD-4000]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,980 ERROR Line 3501 [ID: ORD-4500]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,980 ERROR Line 4001 [ID: ORD-5000]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,980 ERROR Line 4201 [ID: ORD-5200]: Validation failed -> Invalid transaction amount: -33.06992744168903
+2026-03-25 20:38:54,981 ERROR Line 4501 [ID: ORD-5500]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,981 ERROR Line 4901 [ID: ORD-5900]: Validation failed -> Invalid transaction amount: -61.37828818113627
+2026-03-25 20:38:54,981 ERROR Line 5001 [ID: ORD-6000]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,982 ERROR Line 5501 [ID: ORD-6500]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,982 ERROR Line 5601 [ID: ORD-6600]: Validation failed -> Invalid transaction amount: -25.05891661757643
+2026-03-25 20:38:54,983 ERROR Line 6001 [ID: ORD-7000]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,983 ERROR Line 6301 [ID: ORD-7300]: Validation failed -> Invalid transaction amount: -86.21873402332919
+2026-03-25 20:38:54,983 ERROR Line 6501 [ID: ORD-7500]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,984 ERROR Line 7001 [ID: ORD-8000]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,985 ERROR Line 7501 [ID: ORD-8500]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,985 ERROR Line 7701 [ID: ORD-8700]: Validation failed -> Invalid transaction amount: -87.69770111862738
+2026-03-25 20:38:54,985 ERROR Line 8001 [ID: ORD-9000]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,986 ERROR Line 8401 [ID: ORD-9400]: Validation failed -> Invalid transaction amount: -71.35853036842676
+2026-03-25 20:38:54,986 ERROR Line 8501 [ID: ORD-9500]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,986 ERROR Line 9001 [ID: ORD-10000]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,987 ERROR Line 9101 [ID: ORD-10100]: Validation failed -> Invalid transaction amount: -11.456817623808803
+2026-03-25 20:38:54,987 ERROR Line 9501 [ID: ORD-10500]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
+2026-03-25 20:38:54,987 ERROR Line 9801 [ID: ORD-10800]: Validation failed -> Invalid transaction amount: -48.58645222057304
+2026-03-25 20:38:54,988 ERROR Line 10001 [ID: ORD-11000]: Validation failed -> could not convert string to float: 'CORRUPTED_DATA'
